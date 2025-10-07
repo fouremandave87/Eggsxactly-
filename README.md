@@ -1,4 +1,4 @@
-# Eggsxactly-
+2# Eggsxactly-
 Track all the details of your flock or flocks
 import React, { useState } from "react";
 import { View, Text, TouchableOpacity, StyleSheet, ScrollView } from "react-native";
@@ -104,3 +104,9 @@ npm install @react-navigation/native @react-navigation/bottom-tabs
 npx expo install react-native-screens react-native-safe-area-context
 npm install firebase
 expo install @react-native-async-storage/async-storage
+git init
+git branch -M main
+git add .
+git commit -m "Initial Eggsxactly commit"
+git remote add origin https://github.com/YOUR_USERNAME/Eggsxactly.git
+git push -u origin main
