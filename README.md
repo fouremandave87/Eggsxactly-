@@ -103,3 +103,4 @@ Eggsxactly/
 npm install @react-navigation/native @react-navigation/bottom-tabs
 npx expo install react-native-screens react-native-safe-area-context
 npm install firebase
+expo install @react-native-async-storage/async-storage
