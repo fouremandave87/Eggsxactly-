@@ -102,3 +102,4 @@ Eggsxactly/
         └── BottomTabs.js
 npm install @react-navigation/native @react-navigation/bottom-tabs
 npx expo install react-native-screens react-native-safe-area-context
+npm install firebase
