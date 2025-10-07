@@ -115,3 +115,7 @@ node_modules/
 build/
 dist/
 .env
+git clone https://github.com/YOUR_USERNAME/Eggsxactly.git
+cd Eggsxactly
+npm install
+npx expo start
