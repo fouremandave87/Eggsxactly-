@@ -110,3 +110,8 @@ git add .
 git commit -m "Initial Eggsxactly commit"
 git remote add origin https://github.com/YOUR_USERNAME/Eggsxactly.git
 git push -u origin main
+node_modules/
+.expo/
+build/
+dist/
+.env
