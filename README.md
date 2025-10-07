@@ -119,3 +119,4 @@ git clone https://github.com/fouremandave87/Eggsxactly.git
 cd Eggsxactly
 npm install
 npx expo start
+npx expo start --tunnel
