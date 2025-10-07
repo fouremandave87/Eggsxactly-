@@ -108,14 +108,14 @@ git init
 git branch -M main
 git add .
 git commit -m "Initial Eggsxactly commit"
-git remote add origin https://github.com/fouremandave/Eggsxactly.git
+git remote add origin https://github.com/fouremandave87/Eggsxactly.git
 git push -u origin main
 node_modules/
 .expo/
 build/
 dist/
 .env
-git clone https://github.com/fouremandave/Eggsxactly.git
+git clone https://github.com/fouremandave87/Eggsxactly.git
 cd Eggsxactly
 npm install
 npx expo start
