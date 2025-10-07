@@ -82,3 +82,21 @@ const styles = StyleSheet.create({
   rowBetween: { flexDirection: "row", justifyContent: "space-between", alignItems: "center", marginBottom: 8 },
   content: { flex: 1 },
 });
+Eggsxactly/
+│
+├── App.js
+├── app.json
+├── package.json
+├── assets/            ← icons, logos, splash images
+└── src/
+    ├── screens/
+    │   ├── Dashboard.js
+    │   ├── Birds.js
+    │   ├── Tracker.js
+    │   └── Settings.js
+    ├── components/
+    │   └── BirdCard.js
+    ├── data/
+    │   └── firebaseConfig.js
+    └── navigation/
+        └── BottomTabs.js
